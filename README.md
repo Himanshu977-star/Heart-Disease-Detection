@@ -41,9 +41,9 @@ Users can select which condition (SLVH or DLV) to visualize.
 
 ## ⚠️ Thresholding Logic
 
-- Threshold used: **0.3**
-- If probability ≥ 0.3 → **Abnormal**
-- If both conditions < 0.3 → **Normal**
+- Threshold used: **0.5**
+- If probability ≥ 0.5 → **Abnormal**
+- If both conditions < 0.5 → **Normal**
 
 This setup is designed for **screening purposes**, not definitive diagnosis.
 
